@@ -1,3 +1,7 @@
+---
+layout: page
+title: "only"
+---
 <img src="logo.png" width="150" align="center"/>
 
 ## Background/Bylaws
