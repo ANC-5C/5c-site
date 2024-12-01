@@ -14,29 +14,6 @@ Advisory Neighborhood Commission 5C<br/>
 
 Individual Commissioners also conduct official business on behalf of their constituents even when not on behalf of the Commission. The purpose of this website is to publish Commission materials. For non-Commission matters, please reach out to individual Commissioners.
 
-## Contact
-**Email is the Government-furnished contact method for the Commission and Commissioners**; if emailing, include a brief description of the issue and the relevant locations. These emails become part of the Governmental record.
-
-If emailing on matters of ANC 5C records/process, please include citations if referencing any Commission(er) obligations.
-
-|district|email|Commissioner|Commissioner-elect|
-|---|---|---|---|
-|all 5C|5C@anc.dc.gov|designated Officers|TBD in January 2025|
-|5C01|5C01@anc.dc.gov|Anthony Dale|Konyka Dunson|
-|5C02|5C02@anc.dc.gov|Lauren Rogers|(waiting on election results)|
-|5C03|5C03@anc.dc.gov|Tequia Hicks Delgado|Tequia Hicks Delgado|
-|5C04|5C04@anc.dc.gov|Jacqueline Manning|Shawn Nelson|
-|5C05|5C05@anc.dc.gov|Darlene Oliver|Darlene Oliver|
-|5C06|5C06@anc.dc.gov|Harry Thomas Jr.|Harry Thomas Jr.|
-|5C07|5C07@anc.dc.gov|VJ Kapur|VJ Kapur|
-
-**Commissioners also make themselves available via phone, social media, and SMD websites.**
-
-|Commissioner|phone|primary web/social|
-|---|---|---|
-|Kapur||[https://anc5c07.com](https://anc5c07.com)
-
-
 ## Meetings
 **Official Commission business is conducted in publicly noticed and observed meetings.** These are governed by, in order of precedence:
 - DC Code [§ 1–309.11](https://code.dccouncil.gov/us/dc/council/code/sections/1-309.11#(b)(1))
@@ -118,3 +95,27 @@ The Webinar settings and possible limitations of public comment are necessary to
 |2023-02-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/b46edfc38fba103bafe500505681bb64/playback)|||
 |2023-02-06|special|(none)|final|Bylaw amendments (discussion only)|
 |2023-01-18|special|[WebEx](https://dcnet.webex.com/recordingservice/sites/dcnet/recording/90afdd4779af103bbcef005056810215/playback)|final|- Officer elections<br/>- 2023 meeting schedule|
+
+## Contact
+**Email is the Government-furnished contact method for the Commission and Commissioners**; if emailing, include a brief description of the issue and the relevant locations. These emails become part of the Governmental record.
+
+If emailing on matters of ANC 5C records/process, please include citations if referencing any Commission(er) obligations.
+
+|district|email|Commissioner|Commissioner-elect|
+|---|---|---|---|
+|all 5C|5C@anc.dc.gov|designated Officers|TBD in January 2025|
+|5C01|5C01@anc.dc.gov|Anthony Dale|Konyka Dunson|
+|5C02|5C02@anc.dc.gov|Lauren Rogers|(waiting on election results)|
+|5C03|5C03@anc.dc.gov|Tequia Hicks Delgado|Tequia Hicks Delgado|
+|5C04|5C04@anc.dc.gov|Jacqueline Manning|Shawn Nelson|
+|5C05|5C05@anc.dc.gov|Darlene Oliver|Darlene Oliver|
+|5C06|5C06@anc.dc.gov|Harry Thomas Jr.|Harry Thomas Jr.|
+|5C07|5C07@anc.dc.gov|VJ Kapur|VJ Kapur|
+
+**Commissioners also make themselves available via phone, social media, and SMD websites.**
+
+|Commissioner|phone|primary web/social|
+|---|---|---|
+|Kapur||[https://anc5c07.com](https://anc5c07.com)
+
+For any general questions on community concerns or assistance interacting with DC agencies, please reach out to your own Commissioner and/or the Commissioner for the relevant location of the issue.
