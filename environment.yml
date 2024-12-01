@@ -1,0 +1,7 @@
+name: 5c-site
+
+channels:
+  - conda-forge
+
+dependencies:
+  - ruby

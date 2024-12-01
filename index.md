@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "only"
 ---
-<img src="logo.png" width="150" align="center"/>
+<img src="logo.png" width="150" style="align:center"/>
 
 ## Background/Bylaws
 **Advisory Neighborhood Commission 5C is one of 46 such Commissions of the District of Columbia Government.** ANC 5C deliberates on issues facing Ward 5 neighborhoods including all/parts of Arboretum, Brentwood, Fort Lincoln, Gateway, Langdon, and Woodridge. All Commissions are made up Commissioners elected by residents of Single-Member Districts (SMDs) within each Commission Area. [Find your Single-Member District](https://dcgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=12bb36e8b77a4a8780125e77e990b146).
@@ -13,6 +12,7 @@ Individual Commissioners also conduct official business on behalf of their const
 **Email is the Government-furnished contact method for the Commission and Commissioners**; if emailing, include a brief description of the issue and the relevant locations. These emails become part of the Governmental record.
 
 If emailing on matters of ANC 5C records/process, please include citations if referencing any Commission(er) obligations.
+
 |district|email|Commissioner|Commissioner-elect|
 |---|---|---|---|
 |all 5C|5C@anc.dc.gov|designated Officers|TBD in January 2025|
@@ -23,7 +23,6 @@ If emailing on matters of ANC 5C records/process, please include citations if re
 |5C05|5C05@anc.dc.gov|Darlene Oliver|Darlene Oliver|
 |5C06|5C06@anc.dc.gov|Harry Thomas Jr.|Harry Thomas Jr.|
 |5C07|5C07@anc.dc.gov|VJ Kapur|VJ Kapur|
-<hr/>
 
 **Commissioners also make themselves available via phone, social media, and SMD websites.**
 
@@ -51,6 +50,7 @@ The two official conduits for meeting notice, to meet legal obligations in the D
 Individual Commissioners further notice their constituencies over their own email lists, social media, and/or paper notices. Members of the public are always invited to help push awareness to more neighbors.
 
 ### 2023 Meeting Records
+
 |date|type|video/transcript|minutes|notable agenda items|
 |---|---|---|---|---|
 |2023-01-18|special|[WebEx](https://dcnet.webex.com/recordingservice/sites/dcnet/recording/90afdd4779af103bbcef005056810215/playback)|final|- Officer elections<br/>- 2023 meeting schedule|
@@ -72,6 +72,7 @@ Individual Commissioners further notice their constituencies over their own emai
 |2024-01-10|COW|[Teams](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EajZwXxVlNhAgdJ29fO99fsBg3IffLaGbi8WTvGJCCZn_g?e=mTTCeb)|||
 
 ### 2024 Meeting Records
+
 |date|type|video/transcript|minutes|notable agenda items|
 |---|---|---|---|---|
 |2024-01-17|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/6693150097c2103cb4bd00505681ef57/playback)|||
