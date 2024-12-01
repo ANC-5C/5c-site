@@ -51,9 +51,9 @@ Per the requirement in DC Code [§ 1–309.11(b)(3)](https://code.dccouncil.gov/
 To meet this requirement, a Public Comment period is included at the end of every agenda. Some limitations that could be imposed by the Commission at a future time include:
 - limiting public comment to prior sign-up
 - limiting the number of commenters for any meeting
-- limiting time for ecah commenter to comment
+- limiting time for each commenter to comment
 
-The Webinar settings and possible limitations of public comment are necessary to ensure the Commission is able to conduct its obligations in a manner respectful to everyone's time.
+Webinar settings and limitations of public comment are subject to change based on prioritizing the Commission's ability to address its obligations in a manner respectful to everyone's time.
 
 ### 2024 Meeting Records
 
