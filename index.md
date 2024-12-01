@@ -10,9 +10,9 @@ Advisory Neighborhood Commission 5C<br/>
 </table>
 
 ## Background/Bylaws
-**Advisory Neighborhood Commission 5C is one of 46 such Commissions of the District of Columbia Government.** ANC 5C deliberates on issues facing Ward 5 neighborhoods including all/parts of Arboretum, Brentwood, Fort Lincoln, Gateway, Langdon, and Woodridge. All Commissions are made up Commissioners elected by residents of Single-Member Districts (SMDs) within each Commission Area. [Find your Single-Member District](https://dcgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=12bb36e8b77a4a8780125e77e990b146).
+**Advisory Neighborhood Commission 5C is one of 46 such Commissions of the District of Columbia Government.** ANC 5C deliberates on issues facing Ward 5 neighborhoods including all/parts of Arboretum, Brentwood, Fort Lincoln, Gateway, Langdon, and Woodridge. Commissions are made up of Commissioners elected by residents of Single-Member Districts (SMDs) within each Commission Area. [Find your Single-Member District](https://dcgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=12bb36e8b77a4a8780125e77e990b146).
 
-Individual Commissioners also conduct official business on behalf of their constituents and not on behalf of the Commission. For those matters, please reach out to individual Commissioners. The purpose of this website is to publish Commission materials.
+Individual Commissioners also conduct official business on behalf of their constituents even when not on behalf of the Commission. The purpose of this website is to publish Commission materials. For non-Commission matters, please reach out to individual Commissioners.
 
 ## Contact
 **Email is the Government-furnished contact method for the Commission and Commissioners**; if emailing, include a brief description of the issue and the relevant locations. These emails become part of the Governmental record.
