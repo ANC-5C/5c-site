@@ -60,7 +60,7 @@ Webinar settings and limitations of public comment are subject to change based o
 |date|type|video/transcript|minutes|notable agenda items|
 |---|---|---|---|---|
 |2024-11-20|regular|[Zoom](https://dc-gov.zoom.us/rec/share/CSTvhBtiBSspMMmRkbuL1IYRtA8DxAZz7jnSsAI-RDVqFX5BROjFZG1Efq1ytqpV.90t_CMG0768CMZ11)|draft approved in November|- **FY24 Q4 QFR** approved X-0|
-|2024-10-16|regular|[Zoom](https://dc-gov.zoom.us/rec/share/0cevhGte099DMvGpbazrFlrY_V8fWLg5jremMCTwwc9r9hSAGarz6ZcaI7W20ZPv.qimFLt51ueB691_s)|draft approved in November||
+|2024-10-16|regular|[Zoom](https://dc-gov.zoom.us/rec/share/0cevhGte099DMvGpbazrFlrY_V8fWLg5jremMCTwwc9r9hSAGarz6ZcaI7W20ZPv.qimFLt51ueB691_s)|draft approved in November|- [**Resolution Supporting a Bottle Deposit Bill**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EfVXaTQc955Iieqklpa809IBMdyiC9sEJGspiaXGfTJeVg?e=cmohQs)|
 |2024-10-09|COW|(none)|N/A||
 |2024-09-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/8629e7b4583b103db6ff0612e4c4f5fe/playback)|draft approved in November|- **FY24 Q3 QFR** approved 6-0|
 |2024-06-26|regular|(voice memos)|draft approved in June|- [**Resolution on Protecting and Sustainably Activating the Queens Chapel Forest Patch**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EXENP_1OrFVDhxGZ-UNQlh4BeiFA-ClcKd3jUwkzLEARCg?e=kTyKAt) adopted 5-0|
