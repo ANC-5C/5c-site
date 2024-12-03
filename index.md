@@ -59,12 +59,12 @@ Webinar settings and limitations of public comment are subject to change based o
 
 |date|type|video/transcript|minutes|notable agenda items|
 |---|---|---|---|---|
-|2024-11-20|regular|[Zoom](https://dc-gov.zoom.us/rec/share/CSTvhBtiBSspMMmRkbuL1IYRtA8DxAZz7jnSsAI-RDVqFX5BROjFZG1Efq1ytqpV.90t_CMG0768CMZ11)|draft approved in November||
+|2024-11-20|regular|[Zoom](https://dc-gov.zoom.us/rec/share/CSTvhBtiBSspMMmRkbuL1IYRtA8DxAZz7jnSsAI-RDVqFX5BROjFZG1Efq1ytqpV.90t_CMG0768CMZ11)|draft approved in November|- **FY24 Q4 QFR** approved X-0|
 |2024-10-16|regular|[Zoom](https://dc-gov.zoom.us/rec/share/0cevhGte099DMvGpbazrFlrY_V8fWLg5jremMCTwwc9r9hSAGarz6ZcaI7W20ZPv.qimFLt51ueB691_s)|draft approved in November||
 |2024-10-09|COW|(none)|N/A||
-|2024-09-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/8629e7b4583b103db6ff0612e4c4f5fe/playback)|draft approved in November||
-|2024-06-26|regular|(voice memos)|draft approved||
-|2024-05-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/055c6835f539103caf7f005056816960/playback)|draft approved in November||
+|2024-09-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/8629e7b4583b103db6ff0612e4c4f5fe/playback)|draft approved in November|- **FY24 Q3 QFR** approved 6-0|
+|2024-06-26|regular|(voice memos)|draft approved in June||
+|2024-05-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/055c6835f539103caf7f005056816960/playback)|draft approved in June||
 |2024-05-08|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/3f0938c6efbb103cbeba00505681f03c/playback)|N/A||
 |2024-04-17|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/2c6f06b6df38103cbfeb0050568169bd/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EZX6-WwFOXNIsSg1Tg2PtjoBk-t0P9ltZ8dpBXxxhR4W8w?e=mh3yfe)||
 |2024-04-10|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/05c3ba65d9b8103caf7b005056815e30/playback)|N/A||
@@ -79,9 +79,9 @@ Webinar settings and limitations of public comment are subject to change based o
 
 |date|type|video/transcript|minutes|notable agenda items|
 |---|---|---|---|---|
-|2023-11-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/7c3b816e6641103cbcfd122fd0056e19/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/ERdiV1XdZBFAus0oPBHUVSwBi6NTg6RsljHebgOJIp384g?e=9gelpM)||
+|2023-11-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/7c3b816e6641103cbcfd122fd0056e19/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/ERdiV1XdZBFAus0oPBHUVSwBi6NTg6RsljHebgOJIp384g?e=9gelpM)|- [**Resolution on National Engineering Products and Environmental Justice**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/Eb9cvRFXK7xIkLaOOwN0C4gB9azqhLifisIeOMM5aUQ3Ng?e=tfKcU4) adopted 7-0<br/>- **BZA 20994**, Costco gas pumps ([case record](https://app.dcoz.dc.gov/Home/ViewCase?case_id=20994), [5C report](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EWA6jXVT68lAoAFaSgbmoD4Bky5MJ1vv0Ie53SLR-l2twg?e=ibqPQU) supporting adopted 5-2)<br/>- **ABCA 119440, Nomad Wine** (placard, support letter? approved 7-0)<br/>- **FY23 Q4 QFR** approved 7-0|
 |2023-11-09|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/e692723c60c0103cb3bf00505681617e/playback)|N/A||
-|2023-10-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/427e4b685038103cbf53005056810026/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EUbGGgy969hAjqz1Ru9EBPsBusjcR6Et1UN68bvsccDpNg?e=Z6Rjei)||
+|2023-10-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/427e4b685038103cbf53005056810026/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EUbGGgy969hAjqz1Ru9EBPsBusjcR6Et1UN68bvsccDpNg?e=Z6Rjei)|- [**Resolution on Langdon Elementary Facilities Improvement**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EXUemAe2lltBq_8tbVd1VjQB3drFbKp8yh7pD9NZTZD1gw?e=0QJIIo) adopted 5-0<br/>- **ABCA 126065**, DC Xtracts ([placard](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EW_9nVrwcAdOhsl7ujo0-z8B-0gbeDqKpncaVfF-10k9NA?e=iUCGxl), [5C agreement](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EeJ4vDaZgdhFsvf8mI2VyREBQ1dxflzUN6r4_v4s0QA3QA?e=KdR4AL) adopted 5-0)|
 |2023-09-20|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/66a312963a37103cbd7f005056812cb9/playback)|draft approved in June||
 |2023-09-13|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/6b6d294234b8103c97bc00505681ce75/playback)|N/A||
 |2023-07-12|special|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/a23462750331103c973f00505681c822/playback)|draft approved in June||
@@ -94,7 +94,7 @@ Webinar settings and limitations of public comment are subject to change based o
 |2023-03-08|COW|[WebEx](https://dcnet.webex.com/dcnet/ldr.php?RCID=02cbddc000000bd1bee3f0257de205f3)|N/A||
 |2023-02-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/b46edfc38fba103bafe500505681bb64/playback)|draft approved in June||
 |2023-02-06|special|(none)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EeI7WM6GZZJHli3eh4RkozwB_81NW6f4PEFYMUxeakGhew?e=eyexz1)|Bylaw amendments (discussion only)|
-|2023-01-18|special|[WebEx](https://dcnet.webex.com/recordingservice/sites/dcnet/recording/90afdd4779af103bbcef005056810215/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EXWFXvxrFTFEipbzKUdYkiEB7BldExXl8RYZTcGZ0VnNdA?e=NH8MKP)|- Officer elections<br/>- 2023 meeting schedule|
+|2023-01-18|special|[WebEx](https://dcnet.webex.com/recordingservice/sites/dcnet/recording/90afdd4779af103bbcef005056810215/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EXWFXvxrFTFEipbzKUdYkiEB7BldExXl8RYZTcGZ0VnNdA?e=NH8MKP)|- Officer elections<br/>- 2023 meeting schedule<br/>- financial housekeeping|
 
 ## Contact
 **Email is the Government-furnished contact method for the Commission and Commissioners**; if emailing, include a brief description of the issue and the relevant locations. These emails become part of the Governmental record.
