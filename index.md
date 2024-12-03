@@ -63,16 +63,16 @@ Webinar settings and limitations of public comment are subject to change based o
 |2024-10-16|regular|[Zoom](https://dc-gov.zoom.us/rec/share/0cevhGte099DMvGpbazrFlrY_V8fWLg5jremMCTwwc9r9hSAGarz6ZcaI7W20ZPv.qimFLt51ueB691_s)|draft approved in November||
 |2024-10-09|COW|(none)|N/A||
 |2024-09-18|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/8629e7b4583b103db6ff0612e4c4f5fe/playback)|draft approved in November|- **FY24 Q3 QFR** approved 6-0|
-|2024-06-26|regular|(voice memos)|draft approved in June||
-|2024-05-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/055c6835f539103caf7f005056816960/playback)|draft approved in June||
+|2024-06-26|regular|(voice memos)|draft approved in June|- [**Resolution on Protecting and Sustainably Activating the Queens Chapel Forest Patch**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EXENP_1OrFVDhxGZ-UNQlh4BeiFA-ClcKd3jUwkzLEARCg?e=kTyKAt) adopted 5-0|
+|2024-05-15|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/055c6835f539103caf7f005056816960/playback)|draft approved in June|- [**Resolution on Mitigating Development Concerns Surrounding Rhode Island Ave NE and 20th St NE**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EYu3D0uzrXxNtlEomT_xa1EBIZopDsjhij2tqKNZUlk0hA?e=XLqeaJ) adopted 5-0|
 |2024-05-08|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/3f0938c6efbb103cbeba00505681f03c/playback)|N/A||
 |2024-04-17|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/2c6f06b6df38103cbfeb0050568169bd/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EZX6-WwFOXNIsSg1Tg2PtjoBk-t0P9ltZ8dpBXxxhR4W8w?e=mh3yfe)||
 |2024-04-10|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/05c3ba65d9b8103caf7b005056815e30/playback)|N/A||
-|2024-03-20|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/9be4e39ac937103cacf200505681fd0f/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EUC4iFi6d4BJu0MgYbmITz8B_eRdTgl796bBekdUO008ZQ?e=gv2ubl)||
+|2024-03-20|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/9be4e39ac937103cacf200505681fd0f/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EUC4iFi6d4BJu0MgYbmITz8B_eRdTgl796bBekdUO008ZQ?e=gv2ubl)|- [**Resolution on Renewing Refining and Renaming the Langdon Park Moratorium Zone**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EZEHa27zfBFHjtwE0q5nWAQBlZmVTBK6iufou-2WLV4Lmg?e=kn2TGa) adopted 6-0|
 |2024-03-13|COW|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/a61c8fc6c3b7103cbdbb00505681fd0f/playback)|N/A||
 |2024-02-21|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/15008693b33f103ca3cb005056818528/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EWIDhAJYURNMq1xC7LwSZ7YBR5pF4Gj73yN37q_uEYq42Q?e=adnk88)||
 |2024-02-02|special|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/f0206c4ea41e103c9297005056814518/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EbGqjxCmArZFvcO078jHOXkBomgLKnxo_t3zb5g1nbjGpA?e=tk9QlE)||
-|2024-01-17|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/6693150097c2103cb4bd00505681ef57/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EQs5oU-yn4pOqGK415zZSXgBCVRjkiFRfYQKft9CyMNI7w?e=GKxHVK)||
+|2024-01-17|regular|[WebEx](https://dcnet.webex.com/webappng/sites/dcnet/recording/6693150097c2103cb4bd00505681ef57/playback)|[final](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EQs5oU-yn4pOqGK415zZSXgBCVRjkiFRfYQKft9CyMNI7w?e=GKxHVK)|- [**Resolution on Comprehensive Public Safety**](https://dcgovict-my.sharepoint.com/:b:/g/personal/5c_anc_dc_gov/EYu3D0uzrXxNtlEomT_xa1EBIZopDsjhij2tqKNZUlk0hA?e=XLqeaJ) adopted 6-0|
 |2024-01-10|COW|[Teams](https://dcgovict-my.sharepoint.com/:v:/g/personal/5c07_anc_dc_gov2/EajZwXxVlNhAgdJ29fO99fsBg3IffLaGbi8WTvGJCCZn_g?e=mTTCeb)|N/A||
 
 ### 2023 Meeting Records
