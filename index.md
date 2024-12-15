@@ -105,7 +105,7 @@ If emailing on matters of ANC 5C records/process and obligations of the Commissi
 |---|---|---|---|
 |all 5C|5C@anc.dc.gov|designated Officers|TBD in January 2025|
 |5C01|5C01@anc.dc.gov|Anthony Dale|Konyka Dunson|
-|5C02|5C02@anc.dc.gov|Lauren Rogers|(waiting on election results)|
+|5C02|5C02@anc.dc.gov|Lauren Rogers|Sasha Francis|
 |5C03|5C03@anc.dc.gov|Tequia Hicks Delgado|Tequia Hicks Delgado|
 |5C04|5C04@anc.dc.gov|Jacqueline Manning|Shawn Nelson|
 |5C05|5C05@anc.dc.gov|Darlene Oliver|Darlene Oliver|
